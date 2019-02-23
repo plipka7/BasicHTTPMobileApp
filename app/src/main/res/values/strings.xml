@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HTTP Message</string>
+    <string name="input_label1">URL</string>
+    <string name="input_label2">Port</string>
+    <string name="input_label3">Message</string>
+    <string name="button_label">Send Request</string>
+</resources>
